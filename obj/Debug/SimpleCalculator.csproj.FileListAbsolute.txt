@@ -1,0 +1,10 @@
+D:\C# Practicals\Day1\Calculator\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe.config
+D:\C# Practicals\Day1\Calculator\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe
+D:\C# Practicals\Day1\Calculator\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.pdb
+D:\C# Practicals\Day1\Calculator\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.AssemblyReference.cache
+D:\C# Practicals\Day1\Calculator\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.Form1.resources
+D:\C# Practicals\Day1\Calculator\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.Properties.Resources.resources
+D:\C# Practicals\Day1\Calculator\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.GenerateResource.cache
+D:\C# Practicals\Day1\Calculator\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.CoreCompileInputs.cache
+D:\C# Practicals\Day1\Calculator\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.exe
+D:\C# Practicals\Day1\Calculator\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.pdb
